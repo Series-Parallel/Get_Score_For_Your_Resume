@@ -1,101 +1,125 @@
-import Image from "next/image";
+"use client";
 
-export default function Home() {
+import { useState, useEffect } from "react";
+import { motion } from "framer-motion";
+
+export default function Page() {
+  const text = "Login to get started...";
+  const [displayedText, setDisplayedText] = useState("");
+  const [isTypingDone, setIsTypingDone] = useState(false); // New state
+
+  useEffect(() => {
+    let i = 0;
+    const interval = setInterval(() => {
+      if (i < text.length) {
+        setDisplayedText(text.slice(0, i + 1));
+        i++;
+      } else {
+        clearInterval(interval);
+        setIsTypingDone(true); // Set to true when typing is done
+      }
+    }, 100);
+
+    return () => clearInterval(interval);
+  }, []);
+
   return (
-    <div className="grid grid-rows-[20px_1fr_20px] items-center justify-items-center min-h-screen p-8 pb-20 gap-16 sm:p-20 font-[family-name:var(--font-geist-sans)]">
-      <main className="flex flex-col gap-8 row-start-2 items-center sm:items-start">
-        <Image
-          className="dark:invert"
-          src="/next.svg"
-          alt="Next.js logo"
-          width={180}
-          height={38}
-          priority
-        />
-        <ol className="list-inside list-decimal text-sm text-center sm:text-left font-[family-name:var(--font-geist-mono)]">
-          <li className="mb-2">
-            Get started by editing{" "}
-            <code className="bg-black/[.05] dark:bg-white/[.06] px-1 py-0.5 rounded font-semibold">
-              src/app/page.tsx
-            </code>
-            .
-          </li>
-          <li>Save and see your changes instantly.</li>
-        </ol>
+    <div>
+      <div
+        className="h-[70px] pl-[50px] pr-[50px] space-x-[20px] justify-between items-center flex flex-row 
+  bg-gradient-to-b from-[#38261d] via-[#2a1e17cc] to-[#00000000]"
+      >
+        {/* Logo Section */}
+        <motion.div
+          className="overflow-hidden cursor-pointer font-bold"
+          initial={{ clipPath: "inset(0% 50% 0% 50%)", opacity: 0 }}
+          animate={{ clipPath: "inset(0% 0% 0% 0%)", opacity: 1 }}
+          transition={{ duration: 1, ease: [0.25, 0.46, 0.45, 0.94] }}
+          whileHover={{ scale: 1.05 }}
+        >
+          <img
+            src="/logo.avif"
+            alt="Logo"
+            className="h-[70px] w-[200px] object-contain"
+          />
+        </motion.div>
+        <motion.div
+          className="text-[30px] mt-[15px] pr-[80px] overflow-hidden cursor-pointer "
+          initial={{ clipPath: "inset(0% 50% 0% 50%)", opacity: 0 }}
+          animate={{ clipPath: "inset(0% 0% 0% 0%)", opacity: 1 }}
+          transition={{ duration: 1, ease: [0.25, 0.46, 0.45, 0.94] }}
+          whileHover={{ scale: 1.05 }}
+        >
+          Find your Role
+        </motion.div>
 
-        <div className="flex gap-4 items-center flex-col sm:flex-row">
-          <a
-            className="rounded-full border border-solid border-transparent transition-colors flex items-center justify-center bg-foreground text-background gap-2 hover:bg-[#383838] dark:hover:bg-[#ccc] text-sm sm:text-base h-10 sm:h-12 px-4 sm:px-5"
-            href="https://vercel.com/new?utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            <Image
-              className="dark:invert"
-              src="/vercel.svg"
-              alt="Vercel logomark"
-              width={20}
-              height={20}
-            />
-            Deploy now
-          </a>
-          <a
-            className="rounded-full border border-solid border-black/[.08] dark:border-white/[.145] transition-colors flex items-center justify-center hover:bg-[#f2f2f2] dark:hover:bg-[#1a1a1a] hover:border-transparent text-sm sm:text-base h-10 sm:h-12 px-4 sm:px-5 sm:min-w-44"
-            href="https://nextjs.org/docs?utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            Read our docs
-          </a>
-        </div>
-      </main>
-      <footer className="row-start-3 flex gap-6 flex-wrap items-center justify-center">
-        <a
-          className="flex items-center gap-2 hover:underline hover:underline-offset-4"
-          href="https://nextjs.org/learn?utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app"
-          target="_blank"
-          rel="noopener noreferrer"
+        {/* Login Button with Highlight Animation */}
+        <motion.button
+          className="w-[100px] mt-[15px] h-[40px] bg-[#05070b] border border-[#404040] text-white 
+    transition-[background-color,transform] duration-400 ease-[cubic-bezier(0.25,0.46,0.45,0.94)] 
+    hover:bg-[#ff793f] hover:scale-105 active:bg-[#cc6133] rounded-lg shadow-md cursor-pointer"
+          animate={
+            isTypingDone
+              ? {
+                  backgroundColor: ["#05070b", "#ff793f", "#05070b"], // Highlight effect
+                  scale: [1, 1.05, 1], // Slight bounce
+                }
+              : {}
+          }
+          transition={
+            isTypingDone
+              ? {
+                  repeat: Infinity,
+                  duration: 5,
+                  ease: "easeInOut",
+                }
+              : {}
+          }
         >
-          <Image
-            aria-hidden
-            src="/file.svg"
-            alt="File icon"
-            width={16}
-            height={16}
-          />
-          Learn
-        </a>
-        <a
-          className="flex items-center gap-2 hover:underline hover:underline-offset-4"
-          href="https://vercel.com/templates?framework=next.js&utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app"
-          target="_blank"
-          rel="noopener noreferrer"
+          Login
+        </motion.button>
+      </div>
+
+      <div className="flex flex-col justify-center items-center mt-[100px]">
+        <h1 className="text-[50px] text-transparent bg-clip-text bg-gradient-to-r from-orange-100 to-orange-300 font-bold text-center leading-[1.2] max-w-[850px] mx-auto">
+          AI-Powered Resume Analysis: <br />
+          <span className="block text-center">
+            {" "}
+            Find the Job Role That Fits You Best.
+          </span>
+        </h1>
+
+        <motion.img
+          src="/rotatingAI.avif"
+          alt="Rotating AI"
+          className="h-[300px] w-[300px] object-contain mt-[30px] z-[-1]"
+          animate={{
+            rotateZ: [360, 0],
+          }}
+          transition={{
+            repeat: Infinity,
+            duration: 15,
+            ease: "linear",
+          }}
+        />
+      </div>
+
+      {/* Typing Text Animation */}
+      <motion.div
+        className="text-[40px] mt-[80px] text-transparent bg-clip-text bg-gradient-to-r from-orange-100 to-orange-300 font-bold text-center leading-[1.2] mx-auto"
+        initial={{ opacity: 0 }}
+        animate={{ opacity: 1 }}
+        transition={{ duration: 0.5 }}
+      >
+        {displayedText}
+        <motion.span
+          className="inline-block"
+          animate={{ opacity: [0, 1, 0] }}
+          transition={{ repeat: Infinity, duration: 0.8 }}
         >
-          <Image
-            aria-hidden
-            src="/window.svg"
-            alt="Window icon"
-            width={16}
-            height={16}
-          />
-          Examples
-        </a>
-        <a
-          className="flex items-center gap-2 hover:underline hover:underline-offset-4"
-          href="https://nextjs.org?utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          <Image
-            aria-hidden
-            src="/globe.svg"
-            alt="Globe icon"
-            width={16}
-            height={16}
-          />
-          Go to nextjs.org →
-        </a>
-      </footer>
+          |
+        </motion.span>
+      </motion.div>
     </div>
   );
 }
