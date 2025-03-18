@@ -6,13 +6,9 @@ export default function ModelInputs() {
   const [score, setScore] = useState<number | null>(null);
 
   const handleSubmit = async () => {
-    console.log("Form Submitted", formik.values);
-
     const formData = new FormData();
     formData.append("jobDescription", formik.values.jobDescription);
-    if (formik.values.resume) {
-      formData.append("resume", formik.values.resume);
-    }
+    formData.append("resume", formik.values.resume as File);
 
     try {
       const response = await fetch("http://127.0.0.1:5000/api/compare-resume", {
@@ -20,10 +16,14 @@ export default function ModelInputs() {
         body: formData,
       });
 
+      if (!response.ok) {
+        throw new Error(`Server error: ${response.statusText}`);
+      }
+
       const data = await response.json();
-      setScore(data.score);
+      console.log("Response from API:", data);
     } catch (error) {
-      console.error("Error:", error);
+      console.error("Fetch error:", error);
     }
   };
 
@@ -38,7 +38,10 @@ export default function ModelInputs() {
   console.log("Form values", formik.values);
 
   return (
-    <form className="w-full flex flex-col items-center mt-[100px] mb-[20px] gap-4">
+    <form
+      onSubmit={formik.handleSubmit}
+      className="w-full flex flex-col items-center mt-[100px] mb-[20px] gap-4"
+    >
       {/* Job Description Textarea */}
       <Textarea
         name="jobDescription"
