@@ -1,36 +1,22 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Get Score For Your Resume:
 
-## Getting Started
+Get your resume's score based on job description and find out how much you stand out with the help of the AI!
 
-First, run the development server:
+This project is using Random Forest Regressor to give you the score by matching your resume with job description based on 3 main criterias:
+ 1. Skills
+ 2. Experience
+ 3. Location
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+It matches skills using cosine similarity by converting skills into vectors with the help of TF-IDF. Then it compares whether you are in the same country as of the job's posting. Finally, it checks whether you belong to the experience range criteria. Then it calcuates the score!
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+I have used Next.js for the front-end development and Flask for the backend. This model gives scores in real-time so no databased is used. In future, I can add authentication too!
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+Below are some images of the projects!
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+# Images:
 
-## Learn More
+![1](https://github.com/user-attachments/assets/02d805d4-66c8-413e-96a8-a1af9663855a)
 
-To learn more about Next.js, take a look at the following resources:
+![2](https://github.com/user-attachments/assets/9d430c33-da27-48db-b896-63e8a110b62e)
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+![3](https://github.com/user-attachments/assets/c2c805d3-0f11-4ed1-b957-6c6a2516d5ea)
