@@ -9,6 +9,11 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@heroui/input": "^2.4.16",
+    "@heroui/react": "^2.7.5",
+    "@heroui/system": "^2.4.12",
+    "@heroui/theme": "^2.4.12",
+    "formik": "^2.4.6",
     "framer-motion": "^12.4.10",
     "next": "15.2.1",
     "postcss": "^8.5.3",

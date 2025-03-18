@@ -2,9 +2,10 @@
 
 import { useState, useEffect } from "react";
 import { motion } from "framer-motion";
+import ModelInputs from "@/components/ModelInputs";
 
 export default function Page() {
-  const text = "Login to get started...";
+  const text = "Lets get started...";
   const [displayedText, setDisplayedText] = useState("");
   const [isTypingDone, setIsTypingDone] = useState(false); // New state
 
@@ -18,7 +19,7 @@ export default function Page() {
         clearInterval(interval);
         setIsTypingDone(true); // Set to true when typing is done
       }
-    }, 100);
+    }, 150);
 
     return () => clearInterval(interval);
   }, []);
@@ -120,6 +121,9 @@ export default function Page() {
           |
         </motion.span>
       </motion.div>
+      <div>
+        <ModelInputs />
+      </div>
     </div>
   );
 }
