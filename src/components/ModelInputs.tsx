@@ -14,14 +14,25 @@ export default function ModelInputs() {
       const response = await fetch("http://127.0.0.1:5000/api/compare-resume", {
         method: "POST",
         body: formData,
+        headers: {
+          // DO NOT set 'Content-Type' manually for FormData; the browser will handle it
+        },
       });
 
       if (!response.ok) {
-        throw new Error(`Server error: ${response.statusText}`);
+        const errorData = await response.json();
+        throw new Error(
+          `Server error: ${errorData.error || response.statusText}`
+        );
       }
 
       const data = await response.json();
       console.log("Response from API:", data);
+
+      if (data.final_score !== undefined) {
+        setScore(data.final_score); // Set the score in state
+      }
+
     } catch (error) {
       console.error("Fetch error:", error);
     }

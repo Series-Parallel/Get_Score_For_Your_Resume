@@ -51,7 +51,7 @@ export default function Page() {
           transition={{ duration: 1, ease: [0.25, 0.46, 0.45, 0.94] }}
           whileHover={{ scale: 1.05 }}
         >
-          Find your Role
+          Find your Score
         </motion.div>
 
         {/* Login Button with Highlight Animation */}
@@ -62,7 +62,7 @@ export default function Page() {
           animate={
             isTypingDone
               ? {
-                  backgroundColor: ["#05070b", "#ff793f", "#05070b"], // Highlight effect
+                  backgroundColor: ["#05070b", "#ff793f", "#05070b"], 
                   scale: [1, 1.05, 1], // Slight bounce
                 }
               : {}
@@ -83,10 +83,10 @@ export default function Page() {
 
       <div className="flex flex-col justify-center items-center mt-[100px]">
         <h1 className="text-[50px] text-transparent bg-clip-text bg-gradient-to-r from-orange-100 to-orange-300 font-bold text-center leading-[1.2] max-w-[850px] mx-auto">
-          AI-Powered Resume Analysis: <br />
+          AI-Powered Resume Scoring: <br />
           <span className="block text-center">
             {" "}
-            Find the Job Role That Fits You Best.
+            See How Well You Match the Job!
           </span>
         </h1>
 
