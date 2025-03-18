@@ -1,0 +1,129 @@
+Position,Job Skills,Experience_job,Job Location,Name,Skills,Experience_candidate,Location,Final Score
+Software Engineer,"Python, Java, React, SQL, Git",0-2 years,"New York, USA",John Smith,"Python, Java, React, SQL, Git",2 years,"Boston, USA",92.00000000000001
+Software Engineer,"Python, Java, React, SQL, Git",0-2 years,"New York, USA",Emily Johnson,"Python, C++, JavaScript, AWS, Git",1 years,"Los Angeles, USA",54.56097092818448
+Software Engineer,"Python, Java, React, SQL, Git",0-2 years,"New York, USA",William Carter,"C++, Kubernetes, Docker, Microservices",0 years,"Dallas, USA",40.0
+Software Engineer,"Python, Java, React, SQL, Git",0-2 years,"New York, USA",Marco Romano,"JavaScript, Node.js, GraphQL, TypeScript",5 years,"Milan, Italy",35.0
+Software Engineer,"Python, Java, React, SQL, Git",0-2 years,"New York, USA",Amelia Collins,"Swift, Kotlin, Mobile App Development",1 years,"Melbourne, Australia",30.0
+Software Engineer,"Python, Java, React, SQL, Git",0-2 years,"New York, USA",Marco Romano,"JavaScript, Node.js, GraphQL, TypeScript",3 years,"Milan, Italy",33.0
+Software Engineer,"Python, Java, React, SQL, Git",0-2 years,"New York, USA",Amelia Collins,"Swift, Kotlin, Mobile App Development",1 year,"Melbourne, Australia",30.0
+Software Engineer,"Python, Java, React, SQL, Git",0-2 years,"New York, USA",Tariq Al-Mansoor,"Python, Django, Cloud Computing",4 years,"Dubai, UAE",40.367976489739675
+Software Engineer,"Python, Java, React, SQL, Git",0-2 years,"New York, USA",Priyanka Joshi,"C++, React, SQL",2 years,"Mumbai, India",57.11643891128359
+Data Scientist,"Machine Learning, Statistics, Python, SQL",1-2 years,"San Francisco, USA",Rahul Sharma,"Machine Learning, Statistics, Python, SQL",0 years,"Chicago, USA",80.00000000000001
+Data Scientist,"Machine Learning, Statistics, Python, SQL",1-2 years,"San Francisco, USA",Aisha Khan,"Deep Learning, NLP, Python, R",3 years,"Toronto, Canada",47.56097092818448
+Data Scientist,"Machine Learning, Statistics, Python, SQL",1-2 years,"San Francisco, USA",Wei Zhang,"AI, Big Data, Reinforcement Learning, Python",1 years,Hong Kong,41.288242300130804
+Data Scientist,"Machine Learning, Statistics, Python, SQL",1-2 years,"San Francisco, USA",Tariq Al-Mansoor,"NLP, Time Series Forecasting, TensorFlow",6 years,"Dubai, UAE",35.0
+Data Scientist,"Machine Learning, Statistics, Python, SQL",1-2 years,"San Francisco, USA",Priyanka Joshi,"Data Cleaning, Feature Engineering, BI Tools",3 years,"Mumbai, India",33.0
+Data Scientist,"Machine Learning, Statistics, Python, SQL",1-2 years,"San Francisco, USA",Oliver Fischer,"NLP, Time Series Forecasting, TensorFlow",6 years,"Berlin, Germany",35.0
+Data Scientist,"Machine Learning, Statistics, Python, SQL",1-2 years,"San Francisco, USA",Hannah Roberts,"Data Cleaning, Feature Engineering, BI Tools",3 years,"Toronto, Canada",33.0
+Data Scientist,"Machine Learning, Statistics, Python, SQL",1-2 years,"San Francisco, USA",Samuel Grant,"Deep Learning, Image Processing, PyTorch",7 years,"San Francisco, USA",60.61713894577139
+Data Scientist,"Machine Learning, Statistics, Python, SQL",1-2 years,"San Francisco, USA",Lisa Wong,"Big Data, Spark, AWS ML",5 years,Hong Kong,35.0
+Sales Executive,"Communication, Negotiation, CRM, Lead Generation",0-3 years,"London, UK",Michael Brown,"Communication, Negotiation, CRM",0 years,"Manchester, UK",72.84864605165453
+Sales Executive,"Communication, Negotiation, CRM, Lead Generation",0-3 years,"London, UK",Olivia Green,"Lead Generation, Customer Relations, Public Speaking",2 years,"Dublin, Ireland",41.288242300130804
+Sales Executive,"Communication, Negotiation, CRM, Lead Generation",0-3 years,"London, UK",Daniel Kim,"B2B Sales, Cold Calling, Product Marketing",5 years,"Sydney, Australia",34.0
+Sales Executive,"Communication, Negotiation, CRM, Lead Generation",0-3 years,"London, UK",Oliver Fischer,"Lead Scoring, CRM Tools, Public Relations",0 years,"Berlin, Germany",41.288242300130804
+Sales Executive,"Communication, Negotiation, CRM, Lead Generation",0-3 years,"London, UK",Hannah Roberts,"Telemarketing, Customer Psychology, Pitching",1 years,"Toronto, Canada",30.0
+Sales Executive,"Communication, Negotiation, CRM, Lead Generation",0-3 years,"London, UK",Diego Fernandez,"Lead Scoring, CRM Tools, Public Relations",6 years,"Buenos Aires, Argentina",46.288242300130804
+Sales Executive,"Communication, Negotiation, CRM, Lead Generation",0-3 years,"London, UK",Nora Svensson,"Telemarketing, Customer Psychology, Pitching",3 years,"Stockholm, Sweden",32.0
+Sales Executive,"Communication, Negotiation, CRM, Lead Generation",0-3 years,"London, UK",Adam Lewis,"B2B Sales, Cold Calling, Negotiation",5 years,"Miami, USA",39.61713894577139
+Sales Executive,"Communication, Negotiation, CRM, Lead Generation",0-3 years,"London, UK",Owen Thompson,"Account Management, Branding, Digital Marketing",4 years,"Edinburgh, UK",43.0
+Security Guard,"Surveillance, Patrolling, Emergency Response",0-2 years,"Mumbai, India",Arjun Patel,"Surveillance, Patrolling, Emergency Response",1 years,"Delhi, India",90.0
+Security Guard,"Surveillance, Patrolling, Emergency Response",0-2 years,"Mumbai, India",Ravi Desai,"Risk Assessment, First Aid, Physical Fitness",0 years,"Kolkata, India",40.0
+Security Guard,"Surveillance, Patrolling, Emergency Response",0-2 years,"Mumbai, India",Mohan Iyer,"CCTV Monitoring, Access Control, Fire Safety",0 years,"Chennai, India",40.0
+Security Guard,"Surveillance, Patrolling, Emergency Response",0-2 years,"Mumbai, India",Samuel Grant,"Security Protocols, Alarm Systems, Defense Tactics",2 years,"Washington, USA",32.0
+Security Guard,"Surveillance, Patrolling, Emergency Response",0-2 years,"Mumbai, India",Lisa Wong,"Event Security, Metal Detection, Surveillance",3 years,Hong Kong,39.367976489739675
+Security Guard,"Surveillance, Patrolling, Emergency Response",0-2 years,"Mumbai, India",Arthur Bennett,"Security Protocols, Alarm Systems, Defense Tactics",8 years,"Washington, USA",35.0
+Security Guard,"Surveillance, Patrolling, Emergency Response",0-2 years,"Mumbai, India",Deepika Reddy,"Event Security, Metal Detection, Surveillance",4 years,"Hyderabad, India",50.367976489739675
+Security Guard,"Surveillance, Patrolling, Emergency Response",0-2 years,"Mumbai, India",Natalie Simmons,"CCTV Monitoring, First Aid, Risk Assessment",3 years,"New York, USA",33.0
+Security Guard,"Surveillance, Patrolling, Emergency Response",0-2 years,"Mumbai, India",Rajesh Verma,"Emergency Response, Crowd Control, Fire Safety",5 years,"Delhi, India",58.02778355281312
+Graphic Designer,"Photoshop, Illustrator, UI/UX, Creativity",3-5 years,"Berlin, Germany",Sophia Müller,"Photoshop, Illustrator, UI/UX, Creativity",6 years,"Hamburg, Germany",93.00000000000001
+Graphic Designer,"Photoshop, Illustrator, UI/UX, Creativity",3-5 years,"Berlin, Germany",Lucas Becker,"Sketch, Figma, Typography, Branding",3 years,"Munich, Germany",40.0
+Graphic Designer,"Photoshop, Illustrator, UI/UX, Creativity",3-5 years,"Berlin, Germany",Emma Schmidt,"Motion Graphics, Branding, Visual Storytelling",4 years,"Amsterdam, Netherlands",30.0
+Graphic Designer,"Photoshop, Illustrator, UI/UX, Creativity",3-5 years,"Berlin, Germany",Diego Fernandez,"Logo Design, Branding, Vector Graphics",0 years,"Buenos Aires, Argentina",20.0
+Graphic Designer,"Photoshop, Illustrator, UI/UX, Creativity",3-5 years,"Berlin, Germany",Nora Svensson,"Illustration, Storyboarding, Color Theory",1 years,"Stockholm, Sweden",20.0
+Graphic Designer,"Photoshop, Illustrator, UI/UX, Creativity",3-5 years,"Berlin, Germany",Tomas Delgado,"Logo Design, Branding, Vector Graphics",5 years,"Mexico City, Mexico",32.0
+Graphic Designer,"Photoshop, Illustrator, UI/UX, Creativity",3-5 years,"Berlin, Germany",Samantha White,"Illustration, Storyboarding, Color Theory",2 years,"Chicago, USA",20.0
+Graphic Designer,"Photoshop, Illustrator, UI/UX, Creativity",3-5 years,"Berlin, Germany",Dr. Fatima Hassan,"UX/UI, Adobe Photoshop, Typography",7 years,"Cairo, Egypt",55.58067094853757
+Graphic Designer,"Photoshop, Illustrator, UI/UX, Creativity",3-5 years,"Berlin, Germany",Dr. Kevin Brown,"Digital Art, Animation, Social Media Design",4 years,"Sydney, Australia",30.0
+Electrician,"Wiring, Circuit Repair, Troubleshooting",1-2 years,"Sydney, Australia",Ethan Williams,"Wiring, Circuit Repair, Troubleshooting",3 years,"Perth, Australia",93.0
+Electrician,"Wiring, Circuit Repair, Troubleshooting",1-2 years,"Sydney, Australia",Noah Anderson,"Electrical Panels, Safety Protocols, PLC",2 years,"Brisbane, Australia",42.0
+Electrician,"Wiring, Circuit Repair, Troubleshooting",1-2 years,"Sydney, Australia",Jacob Foster,"Circuit Design, Home Automation, Solar Panels",2 years,"Adelaide, Australia",47.76077716889656
+Electrician,"Wiring, Circuit Repair, Troubleshooting",1-2 years,"Sydney, Australia",Adam Lewis,"Solar Energy, Smart Home Systems, Voltage Testing",5 years,"Miami, USA",35.0
+Electrician,"Wiring, Circuit Repair, Troubleshooting",1-2 years,"Sydney, Australia",Owen Thompson,"Renewable Energy, High-Voltage Systems",0 years,"Edinburgh, UK",20.0
+Electrician,"Wiring, Circuit Repair, Troubleshooting",1-2 years,"Sydney, Australia",Felipe Santos,"Solar Energy, Smart Home Systems, Voltage Testing",8 years,"Rio de Janeiro, Brazil",35.0
+Electrician,"Wiring, Circuit Repair, Troubleshooting",1-2 years,"Sydney, Australia",Mei Lin,"Renewable Energy, High-Voltage Systems",6 years,Singapore,35.0
+Electrician,"Wiring, Circuit Repair, Troubleshooting",1-2 years,"Sydney, Australia",Ahmed Yusuf,"Industrial Wiring, Circuit Repair, Motors",5 years,"Istanbul, Turkey",60.507450965524065
+Electrician,"Wiring, Circuit Repair, Troubleshooting",1-2 years,"Sydney, Australia",Viktor Kozlov,"Power Distribution, EV Chargers, Transformers",7 years,"Moscow, Russia",35.0
+Civil Engineer,"AutoCAD, Structural Analysis, Project Management",0-1 years,"Toronto, Canada",Liam Carter,"AutoCAD, Structural Analysis, Project Management",3 years,"Vancouver, Canada",94.00000000000001
+Civil Engineer,"AutoCAD, Structural Analysis, Project Management",0-1 years,"Toronto, Canada",Isabella Clark,"Construction Management, CAD, Cost Estimation",2 years,"Ottawa, Canada",48.61713894577139
+Civil Engineer,"AutoCAD, Structural Analysis, Project Management",0-1 years,"Toronto, Canada",Alexander Grant,"Geotechnical Engineering, Site Planning, Bridges",3 years,"Calgary, Canada",44.0
+Civil Engineer,"AutoCAD, Structural Analysis, Project Management",0-1 years,"Toronto, Canada",Arthur Bennett,"Soil Mechanics, Earthquake Engineering",3 years,"Los Angeles, USA",34.0
+Civil Engineer,"AutoCAD, Structural Analysis, Project Management",0-1 years,"Toronto, Canada",Deepika Reddy,"Urban Planning, GIS Mapping, Traffic Engineering",3 years,"Hyderabad, India",34.0
+Civil Engineer,"AutoCAD, Structural Analysis, Project Management",0-1 years,"Toronto, Canada",Ayaka Tanaka,"Soil Mechanics, Earthquake Engineering",5 years,"Tokyo, Japan",35.0
+Civil Engineer,"AutoCAD, Structural Analysis, Project Management",0-1 years,"Toronto, Canada",Juan Rodriguez,"Urban Planning, GIS Mapping, Traffic Engineering",4 years,"Madrid, Spain",35.0
+Civil Engineer,"AutoCAD, Structural Analysis, Project Management",0-1 years,"Toronto, Canada",Henry Wallace,"Hydraulics, Construction Management, Bridges",6 years,"Toronto, Canada",61.367976489739675
+Civil Engineer,"AutoCAD, Structural Analysis, Project Management",0-1 years,"Toronto, Canada",Amina Khalid,"Structural Analysis, CAD Design, Surveying",5 years,"Nairobi, Kenya",47.61671007168481
+HR Manager,"Recruitment, Employee Relations, Compliance",2-4 years,"Chicago, USA",Daniel Evans,"Recruitment, Employee Relations, Compliance",6 years,"Houston, USA",94.0
+HR Manager,"Recruitment, Employee Relations, Compliance",2-4 years,"Chicago, USA",Emma White,"Payroll, Talent Acquisition, HR Software",2 years,"Atlanta, USA",40.0
+HR Manager,"Recruitment, Employee Relations, Compliance",2-4 years,"Chicago, USA",Rachel Morgan,"Employee Well-being, Culture Development",2 years,"Miami, USA",46.367976489739675
+HR Manager,"Recruitment, Employee Relations, Compliance",2-4 years,"Chicago, USA",Natalie Simmons,"Diversity & Inclusion, Employee Benefits, Onboarding",1 years,"New York, USA",36.367976489739675
+HR Manager,"Recruitment, Employee Relations, Compliance",2-4 years,"Chicago, USA",Rajesh Verma,"HR Analytics, Compensation Planning, Labor Laws",2 years,"Delhi, India",30.0
+HR Manager,"Recruitment, Employee Relations, Compliance",2-4 years,"Chicago, USA",Ivan Petrov,"Diversity & Inclusion, Employee Benefits, Onboarding",9 years,"Berlin, Germany",41.367976489739675
+HR Manager,"Recruitment, Employee Relations, Compliance",2-4 years,"Chicago, USA",Maya Kapoor,"HR Analytics, Compensation Planning, Labor Laws",7 years,"Bangalore, India",35.0
+HR Manager,"Recruitment, Employee Relations, Compliance",2-4 years,"Chicago, USA",George Harrison,"Employee Engagement, Payroll, Talent Acquisition",6 years,"Houston, USA",50.367976489739675
+HR Manager,"Recruitment, Employee Relations, Compliance",2-4 years,"Chicago, USA",Bella Armstrong,"Compliance, Training & Development, Conflict Resolution",4 years,"London, UK",38.367976489739675
+Marketing Manager,"SEO, Digital Marketing, Social Media, Branding",5-6 years,"Dubai, UAE",Benjamin Hall,"SEO, Digital Marketing, Social Media",2 years,"Abu Dhabi, UAE",72.33236768251517
+Marketing Manager,"SEO, Digital Marketing, Social Media, Branding",5-6 years,"Dubai, UAE",Charlotte Lee,"Content Strategy, Branding, PPC Advertising",5 years,"Doha, Qatar",35.08153348955633
+Marketing Manager,"SEO, Digital Marketing, Social Media, Branding",5-6 years,"Dubai, UAE",Ahmed Saeed,"E-commerce Marketing, Google Ads, Analytics",4 years,"Riyadh, Saudi Arabia",25.081533489556328
+Marketing Manager,"SEO, Digital Marketing, Social Media, Branding",5-6 years,"Dubai, UAE",Tomas Delgado,"Social Media Strategy, Branding, PPC Campaigns",3 years,"Mexico City, Mexico",36.80484636381287
+Marketing Manager,"SEO, Digital Marketing, Social Media, Branding",5-6 years,"Dubai, UAE",Samantha White,"Copywriting, Market Research, SEO Audits",3 years,"Chicago, USA",25.081533489556328
+Marketing Manager,"SEO, Digital Marketing, Social Media, Branding",5-6 years,"Dubai, UAE",Noah Jensen,"Social Media Strategy, Branding, PPC Campaigns",6 years,"Copenhagen, Denmark",48.80484636381287
+Marketing Manager,"SEO, Digital Marketing, Social Media, Branding",5-6 years,"Dubai, UAE",William Carter,"Copywriting, Market Research, SEO Audits",4 years,"Austin, USA",25.081533489556328
+Marketing Manager,"SEO, Digital Marketing, Social Media, Branding",5-6 years,"Dubai, UAE",Emily Foster,"Product Positioning, Digital Marketing, Lead Generation",5 years,"Los Angeles, USA",40.09965462489592
+Marketing Manager,"SEO, Digital Marketing, Social Media, Branding",5-6 years,"Dubai, UAE",Liam Bennett,"PR, Content Marketing, Video Advertising",7 years,"San Francisco, USA",38.08153348955633
+Doctor,"Diagnosis, Patient Care, Surgery, Medical Knowledge",1-2 years,Singapore,Dr. Rajesh Gupta,"Diagnosis, Patient Care, Surgery",3 years,"Kuala Lumpur, Malaysia",68.46486333031369
+Doctor,"Diagnosis, Patient Care, Surgery, Medical Knowledge",1-2 years,Singapore,Dr. Anna Kim,"Pediatrics, Emergency Care, Patient Communication",0 years,"Bangkok, Thailand",31.288242300130804
+Doctor,"Diagnosis, Patient Care, Surgery, Medical Knowledge",1-2 years,Singapore,Dr. Javier Cruz,"Cardiology, Internal Medicine, Research",4 years,"Madrid, Spain",34.0
+Doctor,"Diagnosis, Patient Care, Surgery, Medical Knowledge",1-2 years,Singapore,Dr. Fatima Hassan,"Oncology, Medical Ethics, Healthcare Management",3 years,"Cairo, Egypt",38.08153348955633
+Doctor,"Diagnosis, Patient Care, Surgery, Medical Knowledge",1-2 years,Singapore,Dr. Kevin Brown,"Neurology, Emergency Medicine, Telemedicine",0 years,"Sydney, Australia",20.0
+Chef,"Cooking, Food Safety, Menu Planning",0-2 years,"Paris, France",Gabriel Torres,"Cooking, Food Safety, Menu Planning",3 years,"Madrid, Spain",83.00000000000001
+Chef,"Cooking, Food Safety, Menu Planning",0-2 years,"Paris, France",Sophie Laurent,"Baking, Fine Dining, Food Plating",2 years,"Brussels, Belgium",37.61713894577139
+Chef,"Cooking, Food Safety, Menu Planning",0-2 years,"Paris, France",Marco Rossi,"Italian Cuisine, Pasta Making, Restaurant Management",3 years,"Rome, Italy",33.0
+Chef,"Cooking, Food Safety, Menu Planning",0-2 years,"Paris, France",Felipe Santos,"Latin American Cuisine, Catering, Plating",2 years,"Rio de Janeiro, Brazil",32.0
+Chef,"Cooking, Food Safety, Menu Planning",0-2 years,"Paris, France",Mei Lin,"Asian Fusion, Sushi Making, Kitchen Management",2 years,Singapore,32.0
+Truck Driver,"Driving, Route Planning, Vehicle Maintenance",0-3 years,"Texas, USA",Kevin Scott,"Driving, Route Planning, Vehicle Maintenance",5 years,"Phoenix, USA",94.00000000000001
+Truck Driver,"Driving, Route Planning, Vehicle Maintenance",0-3 years,"Texas, USA",Matthew Reed,"Logistics, Map Reading, Vehicle Inspection",0 years,"Denver, USA",45.61713894577139
+Truck Driver,"Driving, Route Planning, Vehicle Maintenance",0-3 years,"Texas, USA",Lucas Hill,"Forklift Operation, Heavy Vehicle Driving, GPS Navigation",2 years,"Chicago, USA",50.3068483034143
+Truck Driver,"Driving, Route Planning, Vehicle Maintenance",0-3 years,"Texas, USA",Ahmed Yusuf,"Long-Haul Driving, Fleet Management, Safety Regulations",3 years,"Istanbul, Turkey",36.67473874876836
+Truck Driver,"Driving, Route Planning, Vehicle Maintenance",0-3 years,"Texas, USA",Viktor Kozlov,"Cross-Border Logistics, Cold Chain Transport",0 years,"Moscow, Russia",30.0
+Teacher,"Lesson Planning, Classroom Management, Subject Knowledge",1-6 years,"Tokyo, Japan",Haruto Tanaka,"Lesson Planning, Classroom Management",3 years,"Osaka, Japan",75.46486333031369
+Teacher,"Lesson Planning, Classroom Management, Subject Knowledge",1-6 years,"Tokyo, Japan",Akari Nakamura,"Subject Knowledge, Student Engagement",5 years,"Kyoto, Japan",53.02778355281312
+Teacher,"Lesson Planning, Classroom Management, Subject Knowledge",1-6 years,"Tokyo, Japan",Yuki Yamamoto,"Educational Technology, Exam Preparation",2 years,"Sapporo, Japan",40.0
+Teacher,"Lesson Planning, Classroom Management, Subject Knowledge",1-6 years,"Tokyo, Japan",Ayaka Tanaka,"Special Education, Curriculum Development",3 years,"Tokyo, Japan",50.0
+Teacher,"Lesson Planning, Classroom Management, Subject Knowledge",1-6 years,"Tokyo, Japan",Juan Rodriguez,"Bilingual Education, STEM Teaching",0 years,"Madrid, Spain",20.0
+Lawyer,"Legal Research, Litigation, Negotiation",1-3 years,"Washington D.C., USA",William Harris,"Legal Research, Litigation, Negotiation",4 years,"San Francisco, USA",93.0
+Lawyer,"Legal Research, Litigation, Negotiation",1-3 years,"Washington D.C., USA",Elizabeth Moore,"Contract Law, Advocacy, Public Speaking",3 years,"Boston, USA",42.0
+Lawyer,"Legal Research, Litigation, Negotiation",1-3 years,"Washington D.C., USA",David Thompson,"International Law, Human Rights, Corporate Law",3 years,"London, UK",32.0
+Lawyer,"Legal Research, Litigation, Negotiation",1-3 years,"Washington D.C., USA",Henry Wallace,"Real Estate Law, Contract Drafting, Dispute Resolution",3 years,"Toronto, Canada",32.0
+Lawyer,"Legal Research, Litigation, Negotiation",1-3 years,"Washington D.C., USA",Amina Khalid,"Immigration Law, Human Rights, Legal Writing",3 years,"Nairobi, Kenya",37.76077716889656
+Financial Analyst,"Excel, Financial Modeling, Investment Analysis",3-4 years,Hong Kong,Jack Robinson,"Excel, Financial Modeling, Investment Analysis",4 years,Singapore,82.00000000000001
+Financial Analyst,"Excel, Financial Modeling, Investment Analysis",3-4 years,Hong Kong,Natalie Parker,"Risk Assessment, Valuation, Business Strategy",6 years,"Shanghai, China",34.0
+Financial Analyst,"Excel, Financial Modeling, Investment Analysis",3-4 years,Hong Kong,Oliver Bennett,"Portfolio Management, Stock Market Analysis",4 years,"Tokyo, Japan",37.61713894577139
+Financial Analyst,"Excel, Financial Modeling, Investment Analysis",3-4 years,Hong Kong,Ivan Petrov,"M&A Analysis, Corporate Finance, Risk Modeling",3 years,"Berlin, Germany",42.61671007168481
+Financial Analyst,"Excel, Financial Modeling, Investment Analysis",3-4 years,Hong Kong,Maya Kapoor,"Credit Analysis, Business Valuation, Economics",1 years,"Bangalore, India",25.617138945771387
+Mechanical Engineer,"CAD Design, Thermodynamics, Manufacturing",1-5 years,"Detroit, USA",Alexander Wright,"CAD Design, Thermodynamics, Manufacturing",6 years,"Austin, USA",93.0
+Mechanical Engineer,"CAD Design, Thermodynamics, Manufacturing",1-5 years,"Detroit, USA",Ethan Mitchell,"Robotics, Industrial Automation, 3D Modeling",1 years,"Miami, USA",40.0
+Mechanical Engineer,"CAD Design, Thermodynamics, Manufacturing",1-5 years,"Detroit, USA",Henry Adams,"Automotive Engineering, Prototyping, CNC Machining",0 years,"Detroit, USA",40.0
+Mechanical Engineer,"CAD Design, Thermodynamics, Manufacturing",1-5 years,"Detroit, USA",George Harrison,"HVAC Systems, CAD Simulation, Mechatronics",3 years,"Houston, USA",46.367976489739675
+Mechanical Engineer,"CAD Design, Thermodynamics, Manufacturing",1-5 years,"Detroit, USA",Bella Armstrong,"Energy Efficiency, Fluid Dynamics, Turbines",6 years,"London, UK",33.0
+Receptionist,"Customer Service, Scheduling, Multitasking",0-5 years,"Dubai, UAE",Sofia Ricci,"Customer Service, Scheduling, Multitasking",0 years,"Rome, Italy",80.0
+Receptionist,"Customer Service, Scheduling, Multitasking",0-5 years,"Dubai, UAE",Natalia Kovalenko,"Communication, Organization, Problem-Solving",1 years,"Moscow, Russia",30.0
+Receptionist,"Customer Service, Scheduling, Multitasking",0-5 years,"Dubai, UAE",Julia Costa,"Bilingual Support, Front Desk Management, Time Management",3 years,"Lisbon, Portugal",30.0
+Fashion Designer,"Sketching, Sewing, Fabric Selection",0-2 years,"Milan, Italy",Sunita Kapoor,"Textile Design, Trend Analysis, Sketching",0 years,"Mumbai, India",36.367976489739675
+Fashion Designer,"Sketching, Sewing, Fabric Selection",0-2 years,"Milan, Italy",Akash Mehta,"Pattern Making, Color Theory, Branding",0 years,"Bangalore, India",30.0
+Fashion Designer,"Sketching, Sewing, Fabric Selection",0-2 years,"Milan, Italy",Elisa Fernández,"Sustainable Fashion, Luxury Apparel, Accessories",3 years,"Madrid, Spain",33.0
+Bartender,"Mixology, Customer Service, Multitasking",0-2 years,"Las Vegas, USA",Diego Morales,"Mixology, Customer Interaction, Inventory Management",0 years,"Barcelona, Spain",44.56097092818449
+Bartender,"Mixology, Customer Service, Multitasking",0-2 years,"Las Vegas, USA",Clara Mendes,"Wine Knowledge, Cocktail Crafting, Bar Management",3 years,"São Paulo, Brazil",33.0
+Bartender,"Mixology, Customer Service, Multitasking",0-2 years,"Las Vegas, USA",Liam O'Connor,"Event Bartending, Beer Expertise, Customer Service",5 years,"Dublin, Ireland",48.02778355281312
+IT Support Specialist,"Troubleshooting, Networking, Windows/Linux",0-2 years,"Jakarta, Indonesia",Nathan Peterson,"Troubleshooting, Network Security, Cloud Computing",1 years,"Chicago, USA",36.367976489739675
+IT Support Specialist,"Troubleshooting, Networking, Windows/Linux",0-2 years,"Jakarta, Indonesia",Jake Thompson,"Hardware Repairs, VPN Setup, Software Debugging",2 years,"Houston, USA",32.0
+IT Support Specialist,"Troubleshooting, Networking, Windows/Linux",0-2 years,"Jakarta, Indonesia",Priya Bhatia,"ITIL Framework, Remote Support, Ticket Management",2 years,"Delhi, India",32.0

@@ -1,0 +1,132 @@
+Name,Position,Skills,Location,Experience
+John Smith,Software Engineer,"Python, Java, React, SQL, Git","Boston, USA",2 years
+Emily Johnson,Software Engineer,"Python, C++, JavaScript, AWS, Git","Los Angeles, USA",1 years
+William Carter,Software Engineer,"C++, Kubernetes, Docker, Microservices","Dallas, USA",0 years
+Rahul Sharma,Data Scientist,"Machine Learning, Statistics, Python, SQL","Chicago, USA",0 years
+Aisha Khan,Data Scientist,"Deep Learning, NLP, Python, R","Toronto, Canada",3 years
+Wei Zhang,Data Scientist,"AI, Big Data, Reinforcement Learning, Python",Hong Kong,1 years
+Michael Brown,Sales Executive,"Communication, Negotiation, CRM","Manchester, UK",0 years
+Olivia Green,Sales Executive,"Lead Generation, Customer Relations, Public Speaking","Dublin, Ireland",2 years
+Daniel Kim,Sales Executive,"B2B Sales, Cold Calling, Product Marketing","Sydney, Australia",5 years
+Arjun Patel,Security Guard,"Surveillance, Patrolling, Emergency Response","Delhi, India",1 years
+Ravi Desai,Security Guard,"Risk Assessment, First Aid, Physical Fitness","Kolkata, India",0 years
+Mohan Iyer,Security Guard,"CCTV Monitoring, Access Control, Fire Safety","Chennai, India",0 years
+Sophia Müller,Graphic Designer,"Photoshop, Illustrator, UI/UX, Creativity","Hamburg, Germany",6 years
+Lucas Becker,Graphic Designer,"Sketch, Figma, Typography, Branding","Munich, Germany",3 years
+Emma Schmidt,Graphic Designer,"Motion Graphics, Branding, Visual Storytelling","Amsterdam, Netherlands",4 years
+Ethan Williams,Electrician,"Wiring, Circuit Repair, Troubleshooting","Perth, Australia",3 years
+Noah Anderson,Electrician,"Electrical Panels, Safety Protocols, PLC","Brisbane, Australia",2 years
+Jacob Foster,Electrician,"Circuit Design, Home Automation, Solar Panels","Adelaide, Australia",2 years
+Liam Carter,Civil Engineer,"AutoCAD, Structural Analysis, Project Management","Vancouver, Canada",3 years
+Isabella Clark,Civil Engineer,"Construction Management, CAD, Cost Estimation","Ottawa, Canada",2 years
+Alexander Grant,Civil Engineer,"Geotechnical Engineering, Site Planning, Bridges","Calgary, Canada",3 years
+Daniel Evans,HR Manager,"Recruitment, Employee Relations, Compliance","Houston, USA",6 years
+Emma White,HR Manager,"Payroll, Talent Acquisition, HR Software","Atlanta, USA",2 years
+Rachel Morgan,HR Manager,"Employee Well-being, Culture Development","Miami, USA",2 years
+Benjamin Hall,Marketing Manager,"SEO, Digital Marketing, Social Media","Abu Dhabi, UAE",2 years
+Charlotte Lee,Marketing Manager,"Content Strategy, Branding, PPC Advertising","Doha, Qatar",5 years
+Ahmed Saeed,Marketing Manager,"E-commerce Marketing, Google Ads, Analytics","Riyadh, Saudi Arabia",4 years
+Dr. Rajesh Gupta,Doctor,"Diagnosis, Patient Care, Surgery","Kuala Lumpur, Malaysia",3 years
+Dr. Anna Kim,Doctor,"Pediatrics, Emergency Care, Patient Communication","Bangkok, Thailand",0 years
+Dr. Javier Cruz,Doctor,"Cardiology, Internal Medicine, Research","Madrid, Spain",4 years
+Gabriel Torres,Chef,"Cooking, Food Safety, Menu Planning","Madrid, Spain",3 years
+Sophie Laurent,Chef,"Baking, Fine Dining, Food Plating","Brussels, Belgium",2 years
+Marco Rossi,Chef,"Italian Cuisine, Pasta Making, Restaurant Management","Rome, Italy",3 years
+Kevin Scott,Truck Driver,"Driving, Route Planning, Vehicle Maintenance","Phoenix, USA",5 years
+Matthew Reed,Truck Driver,"Logistics, Map Reading, Vehicle Inspection","Denver, USA",0 years
+Lucas Hill,Truck Driver,"Forklift Operation, Heavy Vehicle Driving, GPS Navigation","Chicago, USA",2 years
+Haruto Tanaka,Teacher,"Lesson Planning, Classroom Management","Osaka, Japan",3 years
+Akari Nakamura,Teacher,"Subject Knowledge, Student Engagement","Kyoto, Japan",5 years
+Yuki Yamamoto,Teacher,"Educational Technology, Exam Preparation","Sapporo, Japan",2 years
+William Harris,Lawyer,"Legal Research, Litigation, Negotiation","San Francisco, USA",4 years
+Elizabeth Moore,Lawyer,"Contract Law, Advocacy, Public Speaking","Boston, USA",3 years
+David Thompson,Lawyer,"International Law, Human Rights, Corporate Law","London, UK",3 years
+Jack Robinson,Financial Analyst,"Excel, Financial Modeling, Investment Analysis",Singapore,4 years
+Natalie Parker,Financial Analyst,"Risk Assessment, Valuation, Business Strategy","Shanghai, China",6 years
+Oliver Bennett,Financial Analyst,"Portfolio Management, Stock Market Analysis","Tokyo, Japan",4 years
+Alexander Wright,Mechanical Engineer,"CAD Design, Thermodynamics, Manufacturing","Austin, USA",6 years
+Ethan Mitchell,Mechanical Engineer,"Robotics, Industrial Automation, 3D Modeling","Miami, USA",1 years
+Henry Adams,Mechanical Engineer,"Automotive Engineering, Prototyping, CNC Machining","Detroit, USA",0 years
+Sofia Ricci,Receptionist,"Customer Service, Scheduling, Multitasking","Rome, Italy",0 years
+Natalia Kovalenko,Receptionist,"Communication, Organization, Problem-Solving","Moscow, Russia",1 years
+Julia Costa,Receptionist,"Bilingual Support, Front Desk Management, Time Management","Lisbon, Portugal",3 years
+Adam Reynolds,Project Manager,"Agile, Scrum, Budgeting","New York, USA",5 years
+Evelyn Brooks,Project Manager,"Risk Management, Resource Planning, Reporting","Los Angeles, USA",1 years
+Hassan Al-Farsi,Project Manager,"Construction Projects, Cost Estimation, Safety Compliance","Dubai, UAE",1 years
+Diego Morales,Bartender,"Mixology, Customer Interaction, Inventory Management","Barcelona, Spain",0 years
+Clara Mendes,Bartender,"Wine Knowledge, Cocktail Crafting, Bar Management","São Paulo, Brazil",3 years
+Liam O'Connor,Bartender,"Event Bartending, Beer Expertise, Customer Service","Dublin, Ireland",5 years
+Sunita Kapoor,Fashion Designer,"Textile Design, Trend Analysis, Sketching","Mumbai, India",0 years
+Akash Mehta,Fashion Designer,"Pattern Making, Color Theory, Branding","Bangalore, India",0 years
+Elisa Fernández,Fashion Designer,"Sustainable Fashion, Luxury Apparel, Accessories","Madrid, Spain",3 years
+Nathan Peterson,IT Support Specialist,"Troubleshooting, Network Security, Cloud Computing","Chicago, USA",1 years
+Jake Thompson,IT Support Specialist,"Hardware Repairs, VPN Setup, Software Debugging","Houston, USA",2 years
+Priya Bhatia,IT Support Specialist,"ITIL Framework, Remote Support, Ticket Management","Delhi, India",2 years
+Marco Romano,Software Engineer,"JavaScript, Node.js, GraphQL, TypeScript","Milan, Italy",5 years
+Amelia Collins,Software Engineer,"Swift, Kotlin, Mobile App Development","Melbourne, Australia",1 years
+Tariq Al-Mansoor,Data Scientist,"NLP, Time Series Forecasting, TensorFlow","Dubai, UAE",6 years
+Priyanka Joshi,Data Scientist,"Data Cleaning, Feature Engineering, BI Tools","Mumbai, India",3 years
+Oliver Fischer,Sales Executive,"Lead Scoring, CRM Tools, Public Relations","Berlin, Germany",0 years
+Hannah Roberts,Sales Executive,"Telemarketing, Customer Psychology, Pitching","Toronto, Canada",1 years
+Samuel Grant,Security Guard,"Security Protocols, Alarm Systems, Defense Tactics","Washington, USA",2 years
+Lisa Wong,Security Guard,"Event Security, Metal Detection, Surveillance",Hong Kong,3 years
+Diego Fernandez,Graphic Designer,"Logo Design, Branding, Vector Graphics","Buenos Aires, Argentina",0 years
+Nora Svensson,Graphic Designer,"Illustration, Storyboarding, Color Theory","Stockholm, Sweden",1 years
+Adam Lewis,Electrician,"Solar Energy, Smart Home Systems, Voltage Testing","Miami, USA",5 years
+Owen Thompson,Electrician,"Renewable Energy, High-Voltage Systems","Edinburgh, UK",0 years
+Arthur Bennett,Civil Engineer,"Soil Mechanics, Earthquake Engineering","Los Angeles, USA",3 years
+Deepika Reddy,Civil Engineer,"Urban Planning, GIS Mapping, Traffic Engineering","Hyderabad, India",3 years
+Natalie Simmons,HR Manager,"Diversity & Inclusion, Employee Benefits, Onboarding","New York, USA",1 years
+Rajesh Verma,HR Manager,"HR Analytics, Compensation Planning, Labor Laws","Delhi, India",2 years
+Tomas Delgado,Marketing Manager,"Social Media Strategy, Branding, PPC Campaigns","Mexico City, Mexico",3 years
+Samantha White,Marketing Manager,"Copywriting, Market Research, SEO Audits","Chicago, USA",3 years
+Dr. Fatima Hassan,Doctor,"Oncology, Medical Ethics, Healthcare Management","Cairo, Egypt",3 years
+Dr. Kevin Brown,Doctor,"Neurology, Emergency Medicine, Telemedicine","Sydney, Australia",0 years
+Felipe Santos,Chef,"Latin American Cuisine, Catering, Plating","Rio de Janeiro, Brazil",2 years
+Mei Lin,Chef,"Asian Fusion, Sushi Making, Kitchen Management",Singapore,2 years
+Ahmed Yusuf,Truck Driver,"Long-Haul Driving, Fleet Management, Safety Regulations","Istanbul, Turkey",3 years
+Viktor Kozlov,Truck Driver,"Cross-Border Logistics, Cold Chain Transport","Moscow, Russia",0 years
+Ayaka Tanaka,Teacher,"Special Education, Curriculum Development","Tokyo, Japan",3 years
+Juan Rodriguez,Teacher,"Bilingual Education, STEM Teaching","Madrid, Spain",0 years
+Henry Wallace,Lawyer,"Real Estate Law, Contract Drafting, Dispute Resolution","Toronto, Canada",3 years
+Amina Khalid,Lawyer,"Immigration Law, Human Rights, Legal Writing","Nairobi, Kenya",3 years
+Ivan Petrov,Financial Analyst,"M&A Analysis, Corporate Finance, Risk Modeling","Berlin, Germany",3 years
+Maya Kapoor,Financial Analyst,"Credit Analysis, Business Valuation, Economics","Bangalore, India",1 years
+George Harrison,Mechanical Engineer,"HVAC Systems, CAD Simulation, Mechatronics","Houston, USA",3 years
+Bella Armstrong,Mechanical Engineer,"Energy Efficiency, Fluid Dynamics, Turbines","London, UK",6 years
+Marco Romano,Software Engineer,"JavaScript, Node.js, GraphQL, TypeScript","Milan, Italy",3 years
+Amelia Collins,Software Engineer,"Swift, Kotlin, Mobile App Development","Melbourne, Australia",1 year
+Tariq Al-Mansoor,Software Engineer,"Python, Django, Cloud Computing","Dubai, UAE",4 years
+Priyanka Joshi,Software Engineer,"C++, React, SQL","Mumbai, India",2 years
+Oliver Fischer,Data Scientist,"NLP, Time Series Forecasting, TensorFlow","Berlin, Germany",6 years
+Hannah Roberts,Data Scientist,"Data Cleaning, Feature Engineering, BI Tools","Toronto, Canada",3 years
+Samuel Grant,Data Scientist,"Deep Learning, Image Processing, PyTorch","San Francisco, USA",7 years
+Lisa Wong,Data Scientist,"Big Data, Spark, AWS ML",Hong Kong,5 years
+Diego Fernandez,Sales Executive,"Lead Scoring, CRM Tools, Public Relations","Buenos Aires, Argentina",6 years
+Nora Svensson,Sales Executive,"Telemarketing, Customer Psychology, Pitching","Stockholm, Sweden",3 years
+Adam Lewis,Sales Executive,"B2B Sales, Cold Calling, Negotiation","Miami, USA",5 years
+Owen Thompson,Sales Executive,"Account Management, Branding, Digital Marketing","Edinburgh, UK",4 years
+Arthur Bennett,Security Guard,"Security Protocols, Alarm Systems, Defense Tactics","Washington, USA",8 years
+Deepika Reddy,Security Guard,"Event Security, Metal Detection, Surveillance","Hyderabad, India",4 years
+Natalie Simmons,Security Guard,"CCTV Monitoring, First Aid, Risk Assessment","New York, USA",3 years
+Rajesh Verma,Security Guard,"Emergency Response, Crowd Control, Fire Safety","Delhi, India",5 years
+Tomas Delgado,Graphic Designer,"Logo Design, Branding, Vector Graphics","Mexico City, Mexico",5 years
+Samantha White,Graphic Designer,"Illustration, Storyboarding, Color Theory","Chicago, USA",2 years
+Dr. Fatima Hassan,Graphic Designer,"UX/UI, Adobe Photoshop, Typography","Cairo, Egypt",7 years
+Dr. Kevin Brown,Graphic Designer,"Digital Art, Animation, Social Media Design","Sydney, Australia",4 years
+Felipe Santos,Electrician,"Solar Energy, Smart Home Systems, Voltage Testing","Rio de Janeiro, Brazil",8 years
+Mei Lin,Electrician,"Renewable Energy, High-Voltage Systems",Singapore,6 years
+Ahmed Yusuf,Electrician,"Industrial Wiring, Circuit Repair, Motors","Istanbul, Turkey",5 years
+Viktor Kozlov,Electrician,"Power Distribution, EV Chargers, Transformers","Moscow, Russia",7 years
+Ayaka Tanaka,Civil Engineer,"Soil Mechanics, Earthquake Engineering","Tokyo, Japan",5 years
+Juan Rodriguez,Civil Engineer,"Urban Planning, GIS Mapping, Traffic Engineering","Madrid, Spain",4 years
+Henry Wallace,Civil Engineer,"Hydraulics, Construction Management, Bridges","Toronto, Canada",6 years
+Amina Khalid,Civil Engineer,"Structural Analysis, CAD Design, Surveying","Nairobi, Kenya",5 years
+Ivan Petrov,HR Manager,"Diversity & Inclusion, Employee Benefits, Onboarding","Berlin, Germany",9 years
+Maya Kapoor,HR Manager,"HR Analytics, Compensation Planning, Labor Laws","Bangalore, India",7 years
+George Harrison,HR Manager,"Employee Engagement, Payroll, Talent Acquisition","Houston, USA",6 years
+Bella Armstrong,HR Manager,"Compliance, Training & Development, Conflict Resolution","London, UK",4 years
+Noah Jensen,Marketing Manager,"Social Media Strategy, Branding, PPC Campaigns","Copenhagen, Denmark",6 years
+William Carter,Marketing Manager,"Copywriting, Market Research, SEO Audits","Austin, USA",4 years
+Emily Foster,Marketing Manager,"Product Positioning, Digital Marketing, Lead Generation","Los Angeles, USA",5 years
+Liam Bennett,Marketing Manager,"PR, Content Marketing, Video Advertising","San Francisco, USA",7 years
